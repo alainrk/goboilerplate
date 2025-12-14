@@ -2,7 +2,7 @@ name: Pull Request
 
 on:
   push:
-    branches: [main]
+    branches: [__your_main_branch__]
   pull_request:
 
 env:
