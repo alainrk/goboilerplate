@@ -1,0 +1,17 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+.vscode
+__debug_bin*
+tmp/
+*.test
+*.out
+go.work
+bin
+cert
+*.env
+deploy.sh
+.serena
+.claude
